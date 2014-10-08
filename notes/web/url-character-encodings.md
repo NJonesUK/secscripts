@@ -1,4 +1,13 @@
-NUL 	null character 		%00
+Useful chars
+space	%20
+null	%00
+newline	%0a
+&	%26
+#	%23
++	%2b
+
+
+
 SOH 	start of header 	%01
 STX 	start of text 		%02
 ETX 	end of text 		%03
